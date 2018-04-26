@@ -159,7 +159,7 @@
                     <i class="fa fa-remove"></i>
                     </span>
                     <p><strong>Hey!</strong></p>
-                    <p>People are looking at your profile. Find out who.</p>
+                    <p>People are looking at your profile... Brrr so scary</p>
                 </div>
             </div>
 
