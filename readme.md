@@ -2,7 +2,7 @@
 
 -> composer update
 <br>
--> .env
+-> create .env
 <br>
 -> php artisan key:generate
 <br>
