@@ -1,5 +1,7 @@
 ## Installation
 
+-> If you don't see the folder in your localhost make a "sudo chmod -R 777 SocialNetwork-master" in terminal 
+<br>
 -> composer update
 <br>
 -> create .env
